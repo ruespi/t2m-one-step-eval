@@ -1,0 +1,12 @@
+[submodule "MeanAudio"]
+	path = MeanAudio
+	url = https://github.com/ruespi/MeanAudio
+[submodule "audiocraft"]
+	path = audiocraft
+	url = https://github.com/ruespi/audiocraft
+[submodule "UniFlow-Audio"]
+	path = UniFlow-Audio
+	url = https://github.com/ruespi/UniFlow-Audio
+[submodule "av-benchmark"]
+	path = av-benchmark
+	url = https://github.com/ruespi/av-benchmark
