@@ -10,3 +10,6 @@
 [submodule "av-benchmark"]
 	path = av-benchmark
 	url = https://github.com/ruespi/av-benchmark
+[submodule "ismir2017-deepsalience"]
+	path = ismir2017-deepsalience
+	url = https://github.com/ruespi/ismir2017-deepsalience

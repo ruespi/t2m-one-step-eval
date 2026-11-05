@@ -1,5 +1,7 @@
 data
 weights
+exps
+ref
 
 uv.lock
 .python-version
